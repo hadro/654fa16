@@ -1,9 +1,13 @@
 #  Information Technologies
 
 LIS-654-03
+
 Credits: 3
+
 Day and Time Wednesday 06:30PM - 09:30PM
+
 Location: Manhattan, Room 606
+
 Josh Hadro
  [josh.hadro+654fa16@gmail.com](mailto:josh.hadro+654fa16@gmail.com)
 
@@ -20,6 +24,7 @@ TBD (Best bet is to contact the SILS office)
 Course Etherpad: [https://public.etherpad-mozilla.org/p/lis654fa16-1](https://public.etherpad-mozilla.org/p/lis654fa16-1)
 
 [increment last digit for subsequent class numbers, e.g. -2 for class session 2, -6 for class session 6, etc.]
+
 Course WordPress site:   [https://lis654fa16.wordpress.com/](https://lis654fa16.wordpress.com/) (invitations and logins to come)
 
 Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16) (optional)
@@ -28,7 +33,7 @@ Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16)
 
 This course introduces the fundamental concepts of computing and networking, with an emphasis on the role these technologies play in creating, manipulating, storing, and accessing information. Topics essential to the work done by information professionals will be highlighted: web technologies, database concepts, markup languages, data management, and design and accessibility. Students will conduct frequent hands-on activities to acquire skills that are immediately applicable to working with information technologies. The course will explore recent trends in technology within information organizations, preparing students for their roles as information professionals and providing the foundation for future technology-related coursework.
 
-**1)****Objectives**
+**1) ****Objectives**
 
 This course will explore the expression and support of library and information science principles through practical technologies.
 
@@ -39,7 +44,7 @@ Specifically, this course will:
 - Understand contemporary issues and trends in the development and changes of information technologies
 - Examine the direct and indirect relationships between core library and information science principles and the predominant technologies used by library patrons and students.
 
-**2)****Student Learning Objectives**
+**2) ****Student Learning Objectives**
 
 Among other things, students will:
 
@@ -52,11 +57,11 @@ Among other things, students will:
 
 **Important Note** : This is not a skills class. Although we will study and use specific technologies, such as HTML, CSS and other related tools, the focus of the course will be on the role of these technologies in the information professions, not necessarily on the skills themselves.
 
-**3)****Prerequisites**
+**3) ****Prerequisites**
 
 This is a graduate-level technology course. Although there are no academic prerequisites, prior toenrolling in SILS, students must be proficient in the skills listed in &quot;The SILS Student Technology Expectations&quot; adopted and distributed to students since July 2006 (see attached at end of syllabus). The course will move along under this assumption and SILS faculty will provide no remedial assistance during or outside of class.
 
-**4)****Technology Tutoring**
+**4) ****Technology Tutoring**
 
 Pratt SILS offers technology tutorial assistance to students taking 654 and other courses. Assistance with development components of assignments should be directed to the tutor. The tutoring service is managed through the SILS office and is available 20 hours a week either by walk-in or appointment. For information on hours of operation, contactthe SILS office or see above.
 
@@ -74,22 +79,23 @@ Given that technology develops at such a rapid pace, online outlets are far more
 
 **Library-related outlets featuring significant technology coverage:**
 
-[http://planet.code4lib.org/](http://planet.code4lib.org/)
-[http://code4lib.org/](http://code4lib.org/)
-[http://weaveux.org/](http://weaveux.org/) [Disclosure: I serve on the advisory board for this open access publication]
-[http://hacklibraryschool.com/](http://hacklibraryschool.com/)
-[http://lisnews.org/](http://lisnews.org/)
-[http://www.inthelibrarywiththeleadpipe.org/](http://www.inthelibrarywiththeleadpipe.org/)
-[http://scholarlykitchen.sspnet.org/](http://scholarlykitchen.sspnet.org/)
-[http://www.dlib.org/](http://www.dlib.org/)
-[http://firstmonday.org/](http://firstmonday.org/)
-[http://www.libraryinnovation.org/](http://www.libraryinnovation.org/)
-[http://lj.libraryjournal.com/category/technology/](http://lj.libraryjournal.com/category/technology/)
-[https://americanlibrariesmagazine.org/](https://americanlibrariesmagazine.org/)
+- [http://planet.code4lib.org/](http://planet.code4lib.org/)
+- [http://code4lib.org/](http://code4lib.org/)
+- [http://weaveux.org/](http://weaveux.org/) - [Disclosure: I serve on the advisory board for this open access publication]
+- [http://hacklibraryschool.com/](http://hacklibraryschool.com/)
+- [http://lisnews.org/](http://lisnews.org/)
+- [http://www.inthelibrarywiththeleadpipe.org/](http://www.inthelibrarywiththeleadpipe.org/)
+- [http://scholarlykitchen.sspnet.org/](http://scholarlykitchen.sspnet.org/)
+- [http://www.dlib.org/](http://www.dlib.org/)
+- [http://firstmonday.org/](http://firstmonday.org/)
+- [http://www.libraryinnovation.org/](http://www.libraryinnovation.org/)
+- [http://lj.libraryjournal.com/category/technology/](http://lj.libraryjournal.com/category/technology/)
+- [https://americanlibrariesmagazine.org/](https://americanlibrariesmagazine.org/)
 
 **Email lists and Newsletters:**
 
 Code4lib: [https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB)
+
 Current Cites: [http://currentcites.org/](http://currentcites.org/)
 
 Above the Fold from OCLC:   [http://www.oclc.org/research/publications/newsletters/abovethefold.html](http://www.oclc.org/research/publications/newsletters/abovethefold.html)
@@ -98,17 +104,17 @@ LJXpress and/or LJ Academic Newswire from Library Journal: [http://lj.libraryjou
 
 **Also recommended more general publications:**
 
-[http://arstechnica.com/](http://arstechnica.com/)
- [http://www.pewinternet.org/](http://www.pewinternet.org/)
- [http://www.theverge.com/](http://www.theverge.com/)
- [http://www.theatlantic.com/technology/](http://www.theatlantic.com/technology/)
- [http://www.nytimes.com/pages/technology/](http://www.nytimes.com/pages/technology/)
- [http://www.newyorker.com/magazine/annals-of-technology](http://www.newyorker.com/magazine/annals-of-technology)
- [http://metafilter.com](http://metafilter.com)
- [http://chronicle.com/section/Technology/30/](http://chronicle.com/section/Technology/30/)
- [http://www.insidehighered.com/news/focus/technology](http://www.insidehighered.com/news/focus/technology)
- [https://news.ycombinator.com/](https://news.ycombinator.com/) ** **
- [http://www.techdirt.com/](http://www.techdirt.com/)
+- [http://arstechnica.com/](http://arstechnica.com/)
+- [http://www.pewinternet.org/](http://www.pewinternet.org/)
+- [http://www.theverge.com/](http://www.theverge.com/)
+- [http://www.theatlantic.com/technology/](http://www.theatlantic.com/technology/)
+- [http://www.nytimes.com/pages/technology/](http://www.nytimes.com/pages/technology/)
+- [http://www.newyorker.com/magazine/annals-of-technology](http://www.newyorker.com/magazine/annals-of-technology)
+- [http://metafilter.com](http://metafilter.com)
+- [http://chronicle.com/section/Technology/30/](http://chronicle.com/section/Technology/30/)
+- [http://www.insidehighered.com/news/focus/technology](http://www.insidehighered.com/news/focus/technology)
+- [https://news.ycombinator.com/](https://news.ycombinator.com/)
+- [http://www.techdirt.com/](http://www.techdirt.com/)
 
 Twitter via Tweetdeck or other list-displaying programs or apps
 Flipboard
@@ -129,7 +135,8 @@ http://lynda.com/ [Available to you for [free with an NYPL card](https://www.nyp
   **In class: set up a WordPress blog profile**
 
 **August 31 — Internet, Networks, and Protocols**
- Due: Technology and Service Inspiration Post 1
+
+Due: Technology and Service Inspiration Post 1
 
 Readings:
 
@@ -148,14 +155,14 @@ Networking 101
 [http://www.techsoup.org/support/articles-and-how-tos/networking-101-concepts-and-definitions](http://www.techsoup.org/support/articles-and-how-tos/networking-101-concepts-and-definitions)
 
 As We May Think
-
 [http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single\_page=true](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true)
 
 The Cobweb: Can the Internet be archived?
  [http://www.newyorker.com/magazine/2015/01/26/cobweb](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 
 **September 7 — Web Design Basics: HTML (LAB)**
- Due: Reflection Post 1
+
+Due: Reflection Post 1
 
 Readings:
 A history of HTML
@@ -181,7 +188,7 @@ The Group That Rules the Web
 The Evolution of the Web
  [http://www.evolutionoftheweb.com/?hl=en](http://www.evolutionoftheweb.com/?hl=en)
 
-**September 14 — Web Design Basics: CSS (LAB)       **
+**September 14 — Web Design Basics: CSS (LAB)**
 
  Readings:
 
@@ -203,8 +210,9 @@ What is code?
 [Because it will definitely come up:] How to Center in CSS
  [http://howtocenterincss.com/](http://howtocenterincss.com/)
 
-**September 21 — Web Design Basics: Graphics and Multimedia
-       ** Due: Technology and Service Inspiration Post 2
+**September 21 — Web Design Basics: Graphics and Multimedia** 
+
+Due: Technology and Service Inspiration Post 2
 
 Readings:
 The Comprehensive Guide to Saving Images for the Web
@@ -269,7 +277,8 @@ Accessibility and Design resources:
  [http://www.libsuccess.org/Website\_Design#Accessibility](http://www.libsuccess.org/Website_Design#Accessibility)
 
 **October 12 — APIs, and Linked Data**
- Due: Personal homepage
+
+Due: Personal homepage
 
 Readings:
 
@@ -316,8 +325,9 @@ Ebook Sanity
 From where I sit, you can&#39;t actually &quot;sell&quot; an ebook
  [http://www.idealog.com/blog/from-where-i-sit-you-cant-actually-sell-an-ebook](http://www.idealog.com/blog/from-where-i-sit-you-cant-actually-sell-an-ebook)
 
-**October 26 — Open Source (and Open Access)
-       ** Due: Technology and Service Inspiration Post 3
+**October 26 — Open Source (and Open Access)** 
+
+Due: Technology and Service Inspiration Post 3
 
  Readings:
 
@@ -364,20 +374,23 @@ Analysis of Current Digital Preservation Policies: Archives, Libraries and Museu
  [https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
 **November 9 — Blank Technology Canvas Pitch Presentations**
-        Due: Blank Technology Canvas Pitch Presentation
+        
+Due: Blank Technology Canvas Pitch Presentation
 
 **November 16 — Blank Technology Canvas Pitch Presentations**
- Due: Reflection Post 3
+
+Due: Reflection Post 3
 
 **November 23 — NO CLASS**
 
 **November 30 — Relational Databases (and SQL Primer)**
 
 Readings:
-What is a Database, really? Data Storage for Librarians **       **
+What is a Database, really? Data Storage for Librarians
  [http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/)
 
-Introduction to Relational Databases. [http://www.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm](http://www.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm)
+Introduction to Relational Databases. 
+[http://www.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm](http://www.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm)
 
 I Dreamed of a Perfect Database
  [https://newrepublic.com/article/124425/dreamed-perfect-database](https://newrepublic.com/article/124425/dreamed-perfect-database)
@@ -386,7 +399,8 @@ Chapter 1. Introduction to Relational Databases
  [http://docstore.mik.ua/orelly/linux/sql/ch01\_01.htm](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm)
 
 Extra reading:
-        Introduction to SQL (Interactive Tutorial)
+
+Introduction to SQL (Interactive Tutorial)
   [http://sqlzoo.net/wiki/SQL\_Tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
 
 **December 7 — The Library of the Future, and Wrap-up**
@@ -525,9 +539,9 @@ Aptitude in the use of Microsoft Windows-based personal computers, the Microsoft
 
 **C. Internet**
 
-1. **1.** Use of **e-mail** (sending, receiving, replying, forwarding, backing up &amp; deleting messages, as well as sending and opening file attachments)
-2. **2.**** Web browsing **and** searching** (connecting to website, bookmarking, using Yahoo and Google for searching)
-3. **3.** Downloading and uploading files using **FTP.**
+**1.** Use of **e-mail** (sending, receiving, replying, forwarding, backing up &amp; deleting messages, as well as sending and opening file attachments)
+**2.**** Web browsing **and** searching** (connecting to website, bookmarking, using Yahoo and Google for searching)
+**3.** Downloading and uploading files using **FTP.**
 
 
 
