@@ -48,10 +48,10 @@ Specifically, this course will:
 
 Among other things, students will:
 
-    + gain a familiarity with prevailing technology issues, and the skill set for keeping current as those issues evolve.
-    + be able to assess web technologies, and edit web documents as necessary in many professional positions.
-    + become familiar with vocabulary used to discuss the technological underpinnings of libraries and archives, in order to be conversant with peers and colleagues in a wide variety of roles.
-    + be able to identify and articulate connections between library science principles learned in this and other introductory classes and the tools in widespread use by patrons and students.
++ gain a familiarity with prevailing technology issues, and the skill set for keeping current as those issues evolve.
++ be able to assess web technologies, and edit web documents as necessary in many professional positions.
++ become familiar with vocabulary used to discuss the technological underpinnings of libraries and archives, in order to be conversant with peers and colleagues in a wide variety of roles.
++ be able to identify and articulate connections between library science principles learned in this and other introductory classes and the tools in widespread use by patrons and students.
 
 **LMS Program students:** please see attached page for New York State Learning Standards applicable to this course and information on observation conducted within the scope of this class.
 
