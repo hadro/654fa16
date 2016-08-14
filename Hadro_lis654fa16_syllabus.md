@@ -33,7 +33,7 @@ Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16)
 
 This course introduces the fundamental concepts of computing and networking, with an emphasis on the role these technologies play in creating, manipulating, storing, and accessing information. Topics essential to the work done by information professionals will be highlighted: web technologies, database concepts, markup languages, data management, and design and accessibility. Students will conduct frequent hands-on activities to acquire skills that are immediately applicable to working with information technologies. The course will explore recent trends in technology within information organizations, preparing students for their roles as information professionals and providing the foundation for future technology-related coursework.
 
-1. **Objectives**
+- **Objectives**
 
 This course will explore the expression and support of library and information science principles through practical technologies.
 
@@ -44,24 +44,24 @@ Specifically, this course will:
 - Understand contemporary issues and trends in the development and changes of information technologies
 - Examine the direct and indirect relationships between core library and information science principles and the predominant technologies used by library patrons and students.
 
-2. **Student Learning Objectives**
+- **Student Learning Objectives**
 
 Among other things, students will:
 
-- gain a familiarity with prevailing technology issues, and the skill set for keeping current as those issues evolve.
-- be able to assess web technologies, and edit web documents as necessary in many professional positions.
-- become familiar with vocabulary used to discuss the technological underpinnings of libraries and archives, in order to be conversant with peers and colleagues in a wide variety of roles.
-- be able to identify and articulate connections between library science principles learned in this and other introductory classes and the tools in widespread use by patrons and students.
+    + gain a familiarity with prevailing technology issues, and the skill set for keeping current as those issues evolve.
+    + be able to assess web technologies, and edit web documents as necessary in many professional positions.
+    + become familiar with vocabulary used to discuss the technological underpinnings of libraries and archives, in order to be conversant with peers and colleagues in a wide variety of roles.
+    + be able to identify and articulate connections between library science principles learned in this and other introductory classes and the tools in widespread use by patrons and students.
 
 **LMS Program students:** please see attached page for New York State Learning Standards applicable to this course and information on observation conducted within the scope of this class.
 
 **Important Note** : This is not a skills class. Although we will study and use specific technologies, such as HTML, CSS and other related tools, the focus of the course will be on the role of these technologies in the information professions, not necessarily on the skills themselves.
 
-3. **Prerequisites**
+- **Prerequisites**
 
 This is a graduate-level technology course. Although there are no academic prerequisites, prior toenrolling in SILS, students must be proficient in the skills listed in &quot;The SILS Student Technology Expectations&quot; adopted and distributed to students since July 2006 (see attached at end of syllabus). The course will move along under this assumption and SILS faculty will provide no remedial assistance during or outside of class.
 
-4. **Technology Tutoring**
+- **Technology Tutoring**
 
 Pratt SILS offers technology tutorial assistance to students taking 654 and other courses. Assistance with development components of assignments should be directed to the tutor. The tutoring service is managed through the SILS office and is available 20 hours a week either by walk-in or appointment. For information on hours of operation, contactthe SILS office or see above.
 
