@@ -1,14 +1,14 @@
 #  Information Technologies
 
-LIS-654-03
+Identifier: LIS-654-03
 
 Credits: 3
 
-Day and Time Wednesday 06:30PM - 09:30PM
+Day and Time: Wednesday 06:30PM - 09:30PM
 
 Location: Manhattan, Room 606
 
-Josh Hadro
+Instructor: Josh Hadro
  [josh.hadro+654fa16@gmail.com](mailto:josh.hadro+654fa16@gmail.com)
 
 Office Hours: by appointment
@@ -435,26 +435,32 @@ The Robot Army of Good Enough — May 13, 2014
 
 All graded assignments must be added to the class WordPress blog or emailed to the instruction before class on the due date (unless otherwise noted). If there is a medical or personal reason for absences or late homework assignments, you must present your excuse in advance and in writing, via email. Students who do not give advance notice and receive approval will be subject to a **10% of grade per-day penalty** on late homework assignments. Late assignments will receive a grade, but may not receive feedback. Assignments more than 4 days late will not be graded (and will earn a &quot;0&quot;) unless you have prior written approval from your instructor.
 
-**1.** Reflection Posts (25%)
-**2.** Technology and Service Inspiration Posts (10%)
-**3.** Personal Homepage (20%)
-**4.** Blank Technology Canvas Presentation (10%)
-**5.** Blank Technology Canvas Report (25%)
-**6.** Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
+
+1. Reflection Posts (25%)
+2. Technology and Service Inspiration Posts (10%)
+3. Personal Homepage (20%)
+4. Blank Technology Canvas Presentation (10%)
+5. Blank Technology Canvas Report (25%)
+6. Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
 
 **Reflection Posts (25%)**
+
 Students will contribute three significant posts to the class blog over the course of the semester. Initial topic suggestions and a non-exhaustive list of potential sources will be distributed the first day of class. The posts should be a minimum of 700 words in length, and must include: an excerpted portion, quote, or embed (with Fair Use criteria in mind see Fair Use appendix below) and direct link to the source; a brief summary or explanation of the material with comment on how the material was discovered; and the student&#39;s reflection, drawing connections and parallels to material covered in class and/or ongoing concerns to the library and archives communities. A separate assignment sheet with specific blog post and format criteria will be distributed the first day of class.
 
 **Technology and Service Inspiration Posts (10%)**
+
 Students will contribute three brief (150 word minimum) posts to the class blog over the course of the semester. The posts should include: an excerpted portion, quote, or embed (with Fair Use criteria in mind; see Fair Use appendix below) and direct link to the source; and a brief summary or explanation of the connection of the technology inspiration source to the provision of service in an information resource setting. A separate assignment sheet with specific blog post and format criteria will be distributed the first day of class.
 
 **Personal Homepage (20%)**
+
 Using skills, tools, and technique introduced in class, students will create a linked series of web documents featuring biographical information, images, and outbound links relevant to student interests. Required elements will include: a home page, three additional linked pages, an external style sheet, hidden commented code in both HTML and CSS documenting sections and style choices, at least one web-optimized image on each page, inclusions of alt tags for accessibility, and at least one HTML table element. The personal homepage should demonstrate the cumulative knowledge of coding and design skills covered in the course, as well as the integration of design considerations from other sites and examples discussed in class. Students will host all files on the server space provided by the Pratt Institute. A separate assignment sheet with explicit requirements will be distributed in class.
 
 **Blank Technology Canvas Pitch Presentation (10%)**
+
 The ability to pitch ideas effectively to a group and to integrate feedback are essential skills in this profession. As a precursor to the Blank Technology Canvas Proposal Report, students will prepare a five-minute in-class presentation, covering a proposed vision for the space, their inspirations, and other relevant elements supporting their proposal. Students will have the option of using PowerPoint, Prezi (free education version), or other tools (upon approval) to create the presentation. A separate assignment sheet will be distributed in class.
 
 **Blank Technology Canvas Proposal Site (25%)**
+
 For this exercise, students will draft a proposal to develop a large information service space for a user demographic of their choice. Students will work under the assumption that a parent organization has set aside space dedicated for this purpose, and have already secured funding to award to a meritorious proposal. Basic IT and broadband infrastructure are a given, but further potential uses for the space will stem from the student&#39;s vision. The proposal should take into account the specific needs of a particular target user demographic, and will also require that students consider potential partner organizations as well as areas of potential expansion. Likewise, students will include with the proposal examples of sites – real or conceptual – that served as inspiration.  Students will receive feedback on their proposed ideas in class before embarking on the final proposal report. A separate assignment sheet detailing specifications and requirements will be distributed in class.
 
 # Attendance/Participation
@@ -478,9 +484,11 @@ Students should always keep copies of all assignments that are turned in. In the
 
 The best way to contact me is by email ( [josh.hadro+654fa16@gmail.com](mailto:josh.hadro+654fa16@gmail.com)). I typically respond within 24 hours and usually sooner. Should that change, you will be notified in advance. For questions pertaining to upcoming assignments, make sure to contact me well in advance of the deadline such that you can receive the necessary help prior to the deadline.
 
-## Student Agreement:
+## Student Agreement
 
 Attendance at this class signifies that the student has agreed to abide by and adhere to the policies and regulations specified above. It is understood that the instructor may adapt or change this syllabus and the assignments contained within it according to circumstances that may arise during the course of the class.
+
+---
 
 # Appendix: On Fair Use
 
@@ -490,14 +498,14 @@ Fair use is an extremely important facet of the information industry, and is an 
 
 [http://www.law.cornell.edu/uscode/text/17/107](http://www.law.cornell.edu/uscode/text/17/107)
 
-Notwithstanding the provisions of sections [106](http://www.law.cornell.edu/uscode/text/17/106) and [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
+    Notwithstanding the provisions of sections [106](http://www.law.cornell.edu/uscode/text/17/106) and [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
 
-(1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
-(2) **the nature of the copyrighted work;**
-(3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
-(4) **the effect of the use upon the potential market for or value of the copyrighted work.**
+    (1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
+    (2) **the nature of the copyrighted work;**
+    (3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
+    (4) **the effect of the use upon the potential market for or value of the copyrighted work.**
 
-The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+    The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
 ---
 
@@ -539,9 +547,9 @@ Aptitude in the use of Microsoft Windows-based personal computers, the Microsoft
 
 **C. Internet**
 
-**1.** Use of **e-mail** (sending, receiving, replying, forwarding, backing up &amp; deleting messages, as well as sending and opening file attachments)
-**2.**** Web browsing **and** searching** (connecting to website, bookmarking, using Yahoo and Google for searching)
-**3.** Downloading and uploading files using **FTP.**
+1. Use of **e-mail** (sending, receiving, replying, forwarding, backing up &amp; deleting messages, as well as sending and opening file attachments)
+2. **Web browsing** and **searching** (connecting to website, bookmarking, using Yahoo and Google for searching)
+3. Downloading and uploading files using **FTP.**
 
 
 
