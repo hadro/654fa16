@@ -33,7 +33,7 @@ Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16)
 
 This course introduces the fundamental concepts of computing and networking, with an emphasis on the role these technologies play in creating, manipulating, storing, and accessing information. Topics essential to the work done by information professionals will be highlighted: web technologies, database concepts, markup languages, data management, and design and accessibility. Students will conduct frequent hands-on activities to acquire skills that are immediately applicable to working with information technologies. The course will explore recent trends in technology within information organizations, preparing students for their roles as information professionals and providing the foundation for future technology-related coursework.
 
-**1) ****Objectives**
+1. **Objectives**
 
 This course will explore the expression and support of library and information science principles through practical technologies.
 
@@ -44,7 +44,7 @@ Specifically, this course will:
 - Understand contemporary issues and trends in the development and changes of information technologies
 - Examine the direct and indirect relationships between core library and information science principles and the predominant technologies used by library patrons and students.
 
-**2) ****Student Learning Objectives**
+2. **Student Learning Objectives**
 
 Among other things, students will:
 
@@ -57,11 +57,11 @@ Among other things, students will:
 
 **Important Note** : This is not a skills class. Although we will study and use specific technologies, such as HTML, CSS and other related tools, the focus of the course will be on the role of these technologies in the information professions, not necessarily on the skills themselves.
 
-**3) ****Prerequisites**
+3. **Prerequisites**
 
 This is a graduate-level technology course. Although there are no academic prerequisites, prior toenrolling in SILS, students must be proficient in the skills listed in &quot;The SILS Student Technology Expectations&quot; adopted and distributed to students since July 2006 (see attached at end of syllabus). The course will move along under this assumption and SILS faculty will provide no remedial assistance during or outside of class.
 
-**4) ****Technology Tutoring**
+4. **Technology Tutoring**
 
 Pratt SILS offers technology tutorial assistance to students taking 654 and other courses. Assistance with development components of assignments should be directed to the tutor. The tutoring service is managed through the SILS office and is available 20 hours a week either by walk-in or appointment. For information on hours of operation, contactthe SILS office or see above.
 
@@ -436,12 +436,12 @@ The Robot Army of Good Enough — May 13, 2014
 All graded assignments must be added to the class WordPress blog or emailed to the instruction before class on the due date (unless otherwise noted). If there is a medical or personal reason for absences or late homework assignments, you must present your excuse in advance and in writing, via email. Students who do not give advance notice and receive approval will be subject to a **10% of grade per-day penalty** on late homework assignments. Late assignments will receive a grade, but may not receive feedback. Assignments more than 4 days late will not be graded (and will earn a &quot;0&quot;) unless you have prior written approval from your instructor.
 
 
-1. Reflection Posts (25%)
-2. Technology and Service Inspiration Posts (10%)
-3. Personal Homepage (20%)
-4. Blank Technology Canvas Presentation (10%)
-5. Blank Technology Canvas Report (25%)
-6. Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
+- Reflection Posts (25%)
+- Technology and Service Inspiration Posts (10%)
+- Personal Homepage (20%)
+- Blank Technology Canvas Presentation (10%)
+- Blank Technology Canvas Report (25%)
+- Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
 
 **Reflection Posts (25%)**
 
@@ -494,18 +494,19 @@ Attendance at this class signifies that the student has agreed to abide by and a
 
 Fair use is an extremely important facet of the information industry, and is an essential component of the law to understand and be able to clearly communicate to patrons, researchers, students, and anyone else who might benefit from fair use.
 
+---
 ## 17 U.S. Code § 107 - Limitations on exclusive rights: Fair use
 
 [http://www.law.cornell.edu/uscode/text/17/107](http://www.law.cornell.edu/uscode/text/17/107)
 
-    Notwithstanding the provisions of sections [106](http://www.law.cornell.edu/uscode/text/17/106) and [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
+Notwithstanding the provisions of sections [106](http://www.law.cornell.edu/uscode/text/17/106) and [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
 
-    (1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
-    (2) **the nature of the copyrighted work;**
-    (3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
-    (4) **the effect of the use upon the potential market for or value of the copyrighted work.**
+(1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
+(2) **the nature of the copyrighted work;**
+(3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
+(4) **the effect of the use upon the potential market for or value of the copyrighted work.**
 
-    The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
 ---
 
