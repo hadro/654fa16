@@ -5,8 +5,7 @@ Credits: 3
 Day and Time Wednesday 06:30PM - 09:30PM
 Location: Manhattan, Room 606
 Josh Hadro
- [josh.hadro@gmail.com](mailto:josh.hadro@gmail.com)
-(917) 428-4152
+ [josh.hadro+654fa16@gmail.com](mailto:josh.hadro+654fa16@gmail.com)
 
 Office Hours: by appointment
 
@@ -29,7 +28,7 @@ Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16)
 
 This course introduces the fundamental concepts of computing and networking, with an emphasis on the role these technologies play in creating, manipulating, storing, and accessing information. Topics essential to the work done by information professionals will be highlighted: web technologies, database concepts, markup languages, data management, and design and accessibility. Students will conduct frequent hands-on activities to acquire skills that are immediately applicable to working with information technologies. The course will explore recent trends in technology within information organizations, preparing students for their roles as information professionals and providing the foundation for future technology-related coursework.
 
-1. **1)****Objectives**
+**1)****Objectives**
 
 This course will explore the expression and support of library and information science principles through practical technologies.
 
@@ -40,7 +39,7 @@ Specifically, this course will:
 - Understand contemporary issues and trends in the development and changes of information technologies
 - Examine the direct and indirect relationships between core library and information science principles and the predominant technologies used by library patrons and students.
 
-1. **2)****Student Learning Objectives**
+**2)****Student Learning Objectives**
 
 Among other things, students will:
 
@@ -53,11 +52,11 @@ Among other things, students will:
 
 **Important Note** : This is not a skills class. Although we will study and use specific technologies, such as HTML, CSS and other related tools, the focus of the course will be on the role of these technologies in the information professions, not necessarily on the skills themselves.
 
-1. **3)****Prerequisites**
+**3)****Prerequisites**
 
 This is a graduate-level technology course. Although there are no academic prerequisites, prior toenrolling in SILS, students must be proficient in the skills listed in &quot;The SILS Student Technology Expectations&quot; adopted and distributed to students since July 2006 (see attached at end of syllabus). The course will move along under this assumption and SILS faculty will provide no remedial assistance during or outside of class.
 
-1. **4)****Technology Tutoring**
+**4)****Technology Tutoring**
 
 Pratt SILS offers technology tutorial assistance to students taking 654 and other courses. Assistance with development components of assignments should be directed to the tutor. The tutoring service is managed through the SILS office and is available 20 hours a week either by walk-in or appointment. For information on hours of operation, contactthe SILS office or see above.
 
@@ -67,10 +66,7 @@ There are no texts that are required purchases for this course. All required rea
 
 ## Suggested Texts, Sites, and Lists
 
-Freeman, Elisabeth, and Eric Freeman. _Head First HTML with CSS and XHTML_, O&#39;Reilly Media, 2
-
-# nd
- edition, 2012
+Freeman, Elisabeth, and Eric Freeman. _Head First HTML with CSS and XHTML_, O'Reilly Media, 2nd edition, 2012
 
 Krug, Steve. _Don&#39;t Make Me Think: A Common Sense Approach to Web Usability_, 2nd Edition New Riders, 2005.
 
@@ -79,18 +75,17 @@ Given that technology develops at such a rapid pace, online outlets are far more
 **Library-related outlets featuring significant technology coverage:**
 
 [http://planet.code4lib.org/](http://planet.code4lib.org/)
-
-http://code4lib.org/
- [http://weaveux.org/](http://weaveux.org/) [Disclosure: I serve on the advisory board for this open access publication]
- [http://hacklibraryschool.com/](http://hacklibraryschool.com/)
- [http://lisnews.org/](http://lisnews.org/)
- [http://www.inthelibrarywiththeleadpipe.org/](http://www.inthelibrarywiththeleadpipe.org/)
- [http://scholarlykitchen.sspnet.org/](http://scholarlykitchen.sspnet.org/)
- [http://www.dlib.org/](http://www.dlib.org/)
- [http://firstmonday.org/](http://firstmonday.org/)
- [http://www.libraryinnovation.org/](http://www.libraryinnovation.org/)
- [http://lj.libraryjournal.com/category/technology/](http://lj.libraryjournal.com/category/technology/)
- [https://americanlibrariesmagazine.org/](https://americanlibrariesmagazine.org/)
+[http://code4lib.org/](http://code4lib.org/)
+[http://weaveux.org/](http://weaveux.org/) [Disclosure: I serve on the advisory board for this open access publication]
+[http://hacklibraryschool.com/](http://hacklibraryschool.com/)
+[http://lisnews.org/](http://lisnews.org/)
+[http://www.inthelibrarywiththeleadpipe.org/](http://www.inthelibrarywiththeleadpipe.org/)
+[http://scholarlykitchen.sspnet.org/](http://scholarlykitchen.sspnet.org/)
+[http://www.dlib.org/](http://www.dlib.org/)
+[http://firstmonday.org/](http://firstmonday.org/)
+[http://www.libraryinnovation.org/](http://www.libraryinnovation.org/)
+[http://lj.libraryjournal.com/category/technology/](http://lj.libraryjournal.com/category/technology/)
+[https://americanlibrariesmagazine.org/](https://americanlibrariesmagazine.org/)
 
 **Email lists and Newsletters:**
 
@@ -114,6 +109,7 @@ LJXpress and/or LJ Academic Newswire from Library Journal: [http://lj.libraryjou
  [http://www.insidehighered.com/news/focus/technology](http://www.insidehighered.com/news/focus/technology)
  [https://news.ycombinator.com/](https://news.ycombinator.com/) ** **
  [http://www.techdirt.com/](http://www.techdirt.com/)
+
 Twitter via Tweetdeck or other list-displaying programs or apps
 Flipboard
 
@@ -425,12 +421,12 @@ The Robot Army of Good Enough — May 13, 2014
 
 All graded assignments must be added to the class WordPress blog or emailed to the instruction before class on the due date (unless otherwise noted). If there is a medical or personal reason for absences or late homework assignments, you must present your excuse in advance and in writing, via email. Students who do not give advance notice and receive approval will be subject to a **10% of grade per-day penalty** on late homework assignments. Late assignments will receive a grade, but may not receive feedback. Assignments more than 4 days late will not be graded (and will earn a &quot;0&quot;) unless you have prior written approval from your instructor.
 
-1. **1.** Reflection Posts (25%)
-2. **2.** Technology and Service Inspiration Posts (10%)
-3. **3.** Personal Homepage (20%)
-4. **4.** Blank Technology Canvas Presentation (10%)
-5. **5.** Blank Technology Canvas Report (25%)
-6. **6.** Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
+**1.** Reflection Posts (25%)
+**2.** Technology and Service Inspiration Posts (10%)
+**3.** Personal Homepage (20%)
+**4.** Blank Technology Canvas Presentation (10%)
+**5.** Blank Technology Canvas Report (25%)
+**6.** Class discussion and participation (including News of the Week, In-class labs, guest speaker preparedness etc.) (10%)
 
 **Reflection Posts (25%)**
 Students will contribute three significant posts to the class blog over the course of the semester. Initial topic suggestions and a non-exhaustive list of potential sources will be distributed the first day of class. The posts should be a minimum of 700 words in length, and must include: an excerpted portion, quote, or embed (with Fair Use criteria in mind see Fair Use appendix below) and direct link to the source; a brief summary or explanation of the material with comment on how the material was discovered; and the student&#39;s reflection, drawing connections and parallels to material covered in class and/or ongoing concerns to the library and archives communities. A separate assignment sheet with specific blog post and format criteria will be distributed the first day of class.
@@ -466,7 +462,7 @@ Students should always keep copies of all assignments that are turned in. In the
 
 ## Communication
 
-The best way to contact me is by email ( [josh.hadro@gmail.com](mailto:josh.hadro@gmail.com)). I typically respond within 24 hours and usually sooner. Should that change, you will be notified in advance. For questions pertaining to upcoming assignments, make sure to contact me well in advance of the deadline such that you can receive the necessary help prior to the deadline.
+The best way to contact me is by email ( [josh.hadro+654fa16@gmail.com](mailto:josh.hadro+654fa16@gmail.com)). I typically respond within 24 hours and usually sooner. Should that change, you will be notified in advance. For questions pertaining to upcoming assignments, make sure to contact me well in advance of the deadline such that you can receive the necessary help prior to the deadline.
 
 ## Student Agreement:
 
@@ -482,10 +478,10 @@ Fair use is an extremely important facet of the information industry, and is an 
 
 Notwithstanding the provisions of sections [106](http://www.law.cornell.edu/uscode/text/17/106) and [106A](http://www.law.cornell.edu/uscode/text/17/106A), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
 
-1. (1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
-2. (2) **the nature of the copyrighted work;**
-3. (3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
-4. (4) **the effect of the use upon the potential market for or value of the copyrighted work.**
+(1) **the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;**
+(2) **the nature of the copyrighted work;**
+(3) **the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and**
+(4) **the effect of the use upon the potential market for or value of the copyrighted work.**
 
 The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
@@ -493,9 +489,9 @@ The fact that a work is unpublished shall not itself bar a finding of fair use i
 
 The following are the best and most succinct informal criteria for fair use I&#39;ve heard:
 
-1. **1.** _Are you using the material to illustrate a specific point that you&#39;re trying to make?_
-2. **2.** _Are you only using so much as is necessary to make that point?_
-3. **3.** _Is it clear to the audience what that point is?_
+**1.** _Are you using the material to illustrate a specific point that you&#39;re trying to make?_
+**2.** _Are you only using so much as is necessary to make that point?_
+**3.** _Is it clear to the audience what that point is?_
 
 As quoted in &quot; [Fair Use Panel Cautions Against Adopting Georgia State Ruling as Definitive](http://lj.libraryjournal.com/2012/06/shows-events/ala/fair-use-panel-cautions-against-adopting-georgia-state-ruling-as-definitive-ala-annual-2012/)&quot;, _Library Journal_, June 26, 2012.
 
@@ -569,8 +565,4 @@ f. Teachers collaborate with the larger community to access and share learning r
 
 **LMS Program Students:**
 
-_If you conduct field observation in a school library as part of this course, you may be eligible to receive credit toward your 100 hours of observation. If you have questions about whether an observation counts toward this requirement, please contact Professor Jessica Hochman, LMS coordinator jhochman@pratt.edu  _
-
-
-
-_ _
+If you conduct field observation in a school library as part of this course, you may be eligible to receive credit toward your 100 hours of observation. If you have questions about whether an observation counts toward this requirement, please contact Professor Jessica Hochman, LMS coordinator jhochman@pratt.edu
