@@ -31,3 +31,9 @@ Course Etherpad: [https://public.etherpad-mozilla.org/p/lis654fa16-1](https://pu
 Course WordPress site:   [https://lis654fa16.wordpress.com/](https://lis654fa16.wordpress.com/) (invitations and logins to come)
 
 Course hashtag: [#654fa16](https://twitter.com/search?f=tweets&amp;q=%23654fa16) (optional)
+
+---
+
+Publishing everything in this repo as CC-BY; see [`license`](license.md)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
