@@ -1,8 +1,8 @@
-#  Information Technologies at Pratt IS
+#  Information Technologies at Pratt SI
 
 Welcome to 654! 
 
-I'm using Github as an experiment this semester as a tool for distributing files and as a method of helping folks get more acquinted with code editors and open tools, etc. 
+I'm using Github this semester as an experimental tool for distributing files and as a method of helping folks get more acquinted with code editors and open tools, etc. 
 
 See below for basic headline info, but see the [`syllabus`](syllabus) section for the formal full course information documents, and the [`assignments`](assignments) folder for the descriptions of materials you will turn in.
 
