@@ -231,6 +231,7 @@ Format Considerations in Audio-Visual Preservation Reformatting:
  [http://www.digitizationguidelines.gov/audio-visual/documents/IP\_Fleischhauer\_AudioVisual\_Reformatting\_isqv22no2.pdf](http://www.digitizationguidelines.gov/audio-visual/documents/IP_Fleischhauer_AudioVisual_Reformatting_isqv22no2.pdf)
 
 **September 28 — XML and Web Design Wrap-up**
+ 
  Due: Reflection Post 2
 
 Readings:
