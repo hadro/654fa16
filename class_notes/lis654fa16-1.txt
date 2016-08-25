@@ -1,0 +1,93 @@
+The URL for this etherpad:
+    https://public.etherpad-mozilla.org/p/lis654fa16-1
+
+---
+
+Welcome to 654!
+Information Technologies!
+
+My name is Josh Hadro, and I'll be your instructor on Wednesday, 8/24.
+
+More to come soon!
+                 
+
+How I structure class (meta-agenda):
+    Attendance
+    Agenda
+    News of the Week
+    Usually some didactic information, etc.
+    Break!
+    Then more discussion, guest speaker, lab, etc.
+
+Today's agenda:
+    Meta-agenda
+    Who I am
+    Who you are
+    Syllabus
+	    Course philosophy
+	 Assignments
+	Break!
+	News of the Week(?)
+	Wordpress class blog
+		https://lis654fa16.wordpress.com/
+
+
+Etherpad - edit at will
+Mozilla (https://www.mozilla.org/en-US/foundation/)
+Notepad++
+(++ is a way to show increments in code)
+
+Plain text editors
+
+Our class Github:
+    https://github.com/hadro/654fa16
+
+
+Class introductions
+
+-- Your preferred name
+-- What you've taken at Pratt
+-- What brought you to library school
+-- Day job or relevant experience, if any
+-- Any specific interests you have for this course in particular
+
+
+Josh Hadro
+NYPL -- New York Public Library
+NYPL Labs
+NYPL Digital
+
+Deputy Director
+
+- Digital Imaging Unit
+- Metadata Services Unit
+- Permissions and Reproductions
+- Semantic applications and data research
+
+Digital Public Library of America (DPLA) http://dp.la
+HathiTrust https://www.hathitrust.org/
+Google Books
+
+Star Magazine
+
+Library Journal (executive editor)\
+(The one that's not American Libraries)
+
+
+
+
+I'll use this site as an example a lot: 
+http://digitalcollections.nypl.org/
+
+Probably true: "you can do everything you need to do in this class with a text editor and a web browser"
+
+BREAK!
+
+[Going over syllabus]
+
+
+
+https://lis654fa16.wordpress.com/
+
+
+
