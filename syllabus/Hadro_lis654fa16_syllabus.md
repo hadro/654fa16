@@ -19,7 +19,9 @@ Email: [techtuto@pratt.edu](mailto:techtuto@pratt.edu)
 
 **Hours:**
 
-TBD (Best bet is to contact the SILS office)
+- Tues: 3:00–5:00
+- Weds: 3:00–7:00
+- Thurs: 10:00–2:00
 
 Course Etherpad: [https://public.etherpad-mozilla.org/p/lis654fa16-1](https://public.etherpad-mozilla.org/p/lis654fa16-1)
 
