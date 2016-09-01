@@ -1,0 +1,225 @@
+This etherpad:
+    https://public.etherpad-mozilla.org/p/lis654fa16-2
+    
+
+
+Guest speaker:
+    Jason Griffey!
+    
+    
+    
+Agenda:
+    GUEST SPEAKER: Jason Griffey
+    Assignment questions?
+    News of the Week
+    Half-baked metaphor of the Week
+    Readings
+    How the Internet works:
+        Servers and DNS
+        URLs and URIs
+        HTTP Status Codes
+        TCP/IP
+        Etc.
+    BREAK!
+    Networking
+    Demos: Wireshark
+    Network inspection (Firefox, Chrome)
+    
+    Jason Griffey @Griffey
+    
+	LibraryBox 
+	Digital file distri
+	http://librarybox.us/
+	Went viral on http://boingboing.net
+			
+	Measure the Future
+	http://measurethefuture.net/
+	A heatmap for physical spaces
+	A/B Test library spaces
+	
+	
+	
+	News of the week:
+	http://www.wired.com/2016/08/astronomers-dont-think-called-seti-signal-aliens-neither/
+	http://arstechnica.com/science/2016/08/its-true-the-closest-star-to-the-sun-harbors-an-earth-sized-planet/
+	
+	http://www.nytimes.com/2016/08/23/business/chip-technology-keeps-checked-luggage-in-check.html?ref=technology
+	RFID = Radio Frequency identification
+	
+	This: http://www.newyorker.com/tech/elements/life-wuz-here-3-7-billion-years-ago
+	
+	Loews shopping robot?
+	MTA partnership with Penguin Random House
+	
+	Louis CK clip about technology: 
+	https://www.youtube.com/watch?v=akiVi1sR2rM&feature=youtu.be&t=144
+	
+	LinkNYC -- replaced lots of NYC phone booths
+	http://mashable.com/2013/03/12/virtual-library-nyc-subway/#Ln4tNUEYFmqO
+	
+	Excellent TV show, according to Josh: 
+	Mr. Robot
+	
+	Five laws: http://librarysciencedegree.usc.edu/resources/infographics/dr-s-r-ranganathans-five-laws-of-library-science/
+	
+	
+	Readings:
+	Vannevar Bush
+	
+	Trails -- "Wholly new forms of encyclopedias will appear, ready made with a mesh of associative trails running through them"
+	
+	
+	Types of networks
+	
+	Internet -- Computers linked by TCP/IP
+	vs
+	Web -- one application for using the Internet
+	
+	Galactic Network
+	
+	"Link Rot" -- Links are ephemeral
+	
+	Even worse: page updates without notice
+	
+	
+	Internet Archive
+	
+	Aaron Swartz/Internet's Own Boy
+	
+	
+	BREAK!
+	
+	TCP/IP -- 
+	TCP -- Transmission Control Protocol
+	IP -- Internet Protocol
+	
+	
+	
+	
+	
+	URI -- Uniform Resource Identifier
+	URL -- Uniform Resource Location
+	
+	
+	Twitter handle
+	Social Security Number (9 digits)
+	License plates
+	Telephone numbers
+	
+	[pseudo code]
+	scheme://subdomain.domain.TopLevelDomain:port/path?query_string#fragment_id
+	
+	
+	http == Hyper-text Transfer protocol
+		HTTPS
+	
+	FTP -- File Transfer Protocol
+	IMAP - internet message access protocol
+	POP3 -- Post office protocol
+	SMTP -- Simple mail transfer protocol
+	
+	Top Level Domain:
+		Edu
+		Com
+		Gov
+		Net
+		Org
+		Mil
+		Biz
+		
+		ICANN -- Internet Corporation for Assigned Names and Numbers
+		
+	
+	Country codes:
+	.uk
+	.fr
+	.ca
+	
+	Subdomain example:
+	http://digitalcollections.nypl.org
+	
+	
+	Domain Name System (DNS)
+	ISP -- Internet Service Provider
+	
+	^^^^^ -- All of the above: human readable addressing
+	
+	
+	IP Address
+	
+	
+	168.192.1.1
+	168.192.1.11
+	168.192.0.1
+	
+	
+	127.0.0.1
+	
+	
+	###.###.###.###
+	
+	32 bits
+	2^32 addresses
+	
+	4.2 billion
+	
+	IPv4
+	IPv6
+	3.4 * 10^38
+	
+	
+	HTTP Status Codes:
+	
+	HTTP code series:
+	
+	20x
+	Everything a-ok!
+	
+	30x
+	Redirect
+	
+	40x
+	Error 404
+	
+	50x
+	Error 500
+	
+	Status codes for dummies:
+	50x: We screwed
+	40x: You screwed
+	30x: Ask that dude over there.
+	20x: Cool.
+	
+	
+	http://httpstatusrappers.com/
+	
+	
+	
+	
+	http://170.149.172.130
+	
+	
+	Confidence
+	Three-way handshake:
+	SYN -- Sync
+	SYN-ACK -- Sync-acknowledgement
+	ACK -- Acknowledgement
+	
+	
+	Network inspect tool
+	HTTP Headers
+	
+	Tool demo: 
+	Wireshark
+	
+	White hat
+	Grey hat
+	Black hat
+	
+	
+	
+	
+	
+	
+	
+	
