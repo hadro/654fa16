@@ -1,0 +1,161 @@
+This etherpad: 
+    https://public.etherpad-mozilla.org/p/lis654fa16-3
+
+AGENDA:
+    Assignments -- old and new
+    News of the Week
+    Readings
+    Viewing Code
+    Document Structure
+    BREAK!
+    Basic HTML elements
+	    Elements vs. attributes
+	Firefox plugin
+	HTML5
+
+Guest speakers: suggestions welcome
+
+News of the Week:
+    http://www.nytimes.com/2016/09/08/technology/apple-iphone.html?_r=0
+    http://www.nytimes.com/2016/08/27/technology/personaltech/are-the-free-wi-fi-kiosks-on-new-york-streets-safe.html
+    http://www.nytimes.com/2016/09/01/technology/personaltech/video-games-allow-characters-more-varied-sexual-orientations.html
+    
+    
+Swift Playground
+	Swift = iOS programming language
+	
+An irreverent (but pretty good) Ruby tutorial:
+    http://poignant.guide/
+	
+Readings
+	Paul Ford: http://www.ftrain.com/
+	
+	
+"the others were not altogether keen on the design of the IMG tag"
+
+
+Lift the veil!
+Ctrl+u
+
+
+Tools -> Web Developer -> Page Source
+Right click on a part of a web page: Inspect Element
+
+Follow along:
+    https://lis654fa16.wordpress.com/
+    http://www.yahoo.com/
+    
+Talking about today:
+    - Document Structure (elements)
+    - Tag structure (element names, attributes, etc)
+    
+    
+Key concept:
+Nested elements
+
+Root element:
+<html>
+The entire world wide web
+</html>
+
+
+DOM -- Document Object Model
+
+HTML -- Hypertext Markup Language
+
+-- Element (HTML)
+	-- Element (body)
+		-- Element (div)
+			-- Element (p)
+			-- Element (p)
+			-- Element (p)
+		-- Element (div)
+			-- Element (p)
+				-- Element (a)
+				-- Element (img)
+				
+
+Separation of structure and style
+
+View -> Page Style -> No Style
+
+
+Tilt
+Firefox addon: 
+    https://addons.mozilla.org/en-US/firefox/addon/tilt/
+    
+Elements and Attributes
+
+Pseudo code:
+<element attribute="value">Stuff inside the element</element>
+<element attribute="value" />
+
+
+-- Logical division elements
+-- presentation or in-line element
+
+
+Block level elements:
+    div
+    p
+    
+    h1
+    h2
+    h3
+    
+In-line elements:
+	a
+	img
+	
+	strong [renders as bold by default]
+	em [renders as italic by default]
+
+
+Attributes:
+    Describe, identify or help modify an HTML element
+  
+  
+    
+
+<img src="http://example.com/path_to_image.jpg" alt="description_of_image" id="logo" />
+
+
+
+Anchor:
+<a href="http://example.com/most_important_link">Link Text Here</a>
+<a href="/images/image.jpg">Link text here</a>
+
+Absolute path
+relative path
+
+
+
+SEO == Search Engine Optimization
+
+
+Text editors:
+    Mac: 
+        Sublime Text
+        Komodo
+        TextWrangler
+        Atom
+        Textedit (BE SURE TO set to plain text)
+        
+    PC:
+        Notepad++
+        Sublime Text
+        Atom
+			Notepad (NOT Wordpad)
+
+
+
+Links from during class:
+    http://www.nytimes.com/2016/09/01/technology/personaltech/video-games-allow-characters-more-varied-sexual-orientations.html?ref=technology&_r=0
+    http://www.nytimes.com/2016/08/27/technology/personaltech/are-the-free-wi-fi-kiosks-on-new-york-streets-safe.html?ref=technology
+    https://www.codecademy.com/
+    http://poignant.guide/
+    https://addons.mozilla.org/en-US/firefox/addon/tilt/
+    https://www.youtube.com/watch?v=8DCSRvr5RfI [Star Wars in hypercard]    
+    
+
+
