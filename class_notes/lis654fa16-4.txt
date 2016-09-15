@@ -1,0 +1,224 @@
+This etherpad:
+    https://public.etherpad-mozilla.org/p/lis654fa16-4
+    
+
+https://css-tricks.com/wsdflksdjflsdkfj
+
+
+
+Agenda:
+    Housekeeping/Assignments
+    Personal homepage assignment
+    Readings
+    News of the Week
+    HTML / Questions
+    HTML5
+    Basic template
+    BREAK!
+    CSS
+		What is it?
+		How's it work? 
+		Essential components
+	In-class exercise
+	
+Readings:
+    What is Code
+    https://github.com/BloombergMedia/whatiscode
+	
+	Carla Hayden
+		LOC
+			Copyright Office
+	David Ferreio -- AOTUS
+	
+	NPR Article about degrading information mediums
+	http://www.npr.org/sections/therecord/2013/02/13/171916723/saving-the-sounds-of-america
+     
+    
+    
+HTML5
+
+
+Structural changes
+Structural Elements
+<section>
+<article>
+<header>
+<nav>
+
+Functional changes
+<video>
+<audio>
+<canvas>
+
+
+
+html5 demos: 
+    http://html5demos.com/
+    
+    
+    
+https://hipsum.co/?paras=4&type=hipster-latin
+http://vlad-saling.github.io/star-trek-ipsum/
+
+
+Comment in HTML:
+    <!-- Definitely an important comment -->
+
+
+
+
+
+Links from class:
+    http://www.nytimes.com/2016/09/15/nyregion/internet-browsers-to-be-disabled-on-new-yorks-free-wi-fi-kiosks.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news
+    http://www.nbcnews.com/news/us-news/carla-hayden-be-sworn-first-african-american-woman-head-library-n615116
+    http://www.nytimes.com/2015/04/05/opinion/sunday/digital-neglect-at-the-library-of-congress.html
+    http://ipsum-generators.com/view/?id=20
+    http://www.bloomberg.com/politics/sdflksdfjsdlkj
+    https://hipsum.co/?paras=4&type=hipster-latin
+    http://vlad-saling.github.io/star-trek-ipsum/
+    https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md
+    https://en.wikipedia.org/wiki/James_H._Billington
+    
+    
+For Validating HTML Code (Important to Mid-term!)
+    http://validator.w3.org/
+    
+    CSS Validator:
+        http://jigsaw.w3.org/css-validator/
+        
+        
+CSS -- Cascading Style Sheets
+
+"closest rule wins"
+
+
+Three options for designating CSS:
+    - Embedded CSS
+    - External CSS
+    - Inline CSS
+    
+Inline:
+    <p style="font-size: 18px;">Paragraph text here</p>
+    
+    
+    
+Embedded CSS:
+    Within <head> element:
+        <style type="text/css">
+        /* CSS GOES HERE */
+        </style>
+        
+External stylesheet:
+    invoked in the <head>
+    
+	    <link rel="stylesheet" href="images/style.css" type="text/css" />
+     
+        
+        
+"rules"
+
+Pseudo code css:
+    
+    selector {
+        property: value;
+        property: value;
+        property: value;
+        }
+        
+
+How do selectors work?
+
+Types of selectors:
+    HTML Elements (p, body, h1, div, etc.)
+		   
+			 p {
+				color: blue;
+			}
+			
+			
+    Class selectors  (.sidebar, .page-nav, etc.)
+    ID selectors    (#footer, #right-image, #pullquote, etc.)
+        
+
+
+<body>
+	<div>
+		<p id="pullquote"> Some text here, etc.</p>
+		<div class="sidebar"> SIDEBAR TEXT </div>
+        
+        
+        
+
+
+---
+---
+---
+
+
+
+
+
+
+
+
+
+
+Code from the end of class:
+    
+    <!doctype html>
+<html lang="en">
+        <head>
+                <title>My Killer HTML Page</title>
+        
+        <style>
+        p {
+                color: red;
+        }
+        h2 {
+                color: blue;
+        }
+        #green-paragraph {
+                color: green;
+        }
+        .sidebar {
+                float: right;
+                width: 33%;
+                padding: 20px;
+        }
+        body {
+                width: 80%;
+                margin: 0 auto;
+        }
+        
+        </style>
+        
+        </head>
+        
+        
+        
+        <body>
+                <!-- Definitely an important comment -->
+                <div class="sidebar">
+                <img src="http://mysite.pratt.edu/~jhadro/images/beeker.jpg" alt="beeker" />
+                <p id="green-paragraph">
+                These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area. We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+                </p>
+                </div>
+                
+                <h2>Welcome to... the sub-heading</h2>
+                <p>
+                Sensors indicate no shuttle or other ships in this sector. According to coordinates, we have travelled 7,000 light years and are located near the system J-25. Tractor beam released, sir. Force field maintaining our hull integrity. Damage report? Sections 27, 28 and 29 on decks four, five and six destroyed. Without our shields, at this range it is probable a photon detonation could destroy the Enterprise.
+                </p>
+                <p>
+                Now what are the possibilities of warp drive? Cmdr Riker's nervous system has been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.
+                </p>
+                <p>
+                Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven. There's no evidence of an advanced communication network. Total guidance system failure, with less than 24 hours' reserve power. Shield effectiveness has been reduced 12 percent. We have covered the area in a spherical pattern which a ship without warp drive could cross in the given time.
+                </p>
+                <p>
+                Resistance is futile.
+                </p>
+        </body>
+</html>
+        
+        
