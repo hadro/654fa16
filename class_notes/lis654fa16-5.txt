@@ -1,0 +1,90 @@
+This etherpad:
+    https://public.etherpad-mozilla.org/p/lis654fa16-5
+    
+    
+Agenda:
+    Personal homepage assignment?
+    News of the Week
+    Readings?
+    Demo from NYPL Digital Collections
+    Images and media
+		Compression
+		file formats
+	Quick photoshop exercise
+	BREAK!
+	HTML/CSS Lab and worktime
+			
+    
+    News of the week: 
+        https://www.cnet.com/news/why-is-samsung-galaxy-note-7-exploding-overheating/
+        http://arstechnica.com/gadgets/2016/09/wont-turn-in-your-note-7-samsung-will-gimp-your-battery/
+	  http://www.theatlantic.com/technology/archive/2016/09/the-museum-of-modern-arts-miraculous-new-online-archive/500681/
+	  https://www.wired.com/2016/09/clintons-app-trouncing-trumps-pretty-much-every-way/
+  http://www.theatlantic.com/politics/archive/2012/11/orca-failed-but-so-did-obamas-2008-version-of-the-same/265077/
+  https://www.theguardian.com/world/2016/sep/19/waste-not-want-not-sweden-tax-breaks-repairs
+  http://www.mhpbooks.com/its-a-bird-its-a-planeits-a-drone-in-the-new-york-public-library/  
+	http://arstechnica.com/tech-policy/2016/09/whats-in-a-middle-name-read-about-david-smiths-background-check-snafu/
+    
+    https://www.youtube.com/watch?v=mPG5TIYTaeM John Oliver Segment
+    
+                                                                                                                                                                                                                                                                                                                                                                  
+FADGI Guidelines -- Federal Agencies Digitization Guideline Initiative
+
+
+https://confluence.nypl.org/display/DIG/Specs+for+Vendor+and+Other+External+Digitization
+
+
+Compression -- Compacting bits to streamline file size
+
+Lossless -- no change in data, quality, etc.
+	Examples: CSS minification, Muji tshirts, etc.
+Lossy -- 
+	JPG
+	Audio
+
+http://s3.jspenguin.org/compression.jpeg
+
+http://unminify.com/
+
+
+JPG - Really good compression.
+PNG - Portable network graphics
+GIF - Older but good compression for up to 256 colorspace.
+BMP - Don't talk about BMP
+TIFF - Tag Image File Format. Extremely stable and well documented image format. Technically owned by Adobe
+JPEG2000 - useful compression format
+SVG - Scalable Vector graphics!
+
+https://xkcd.com/927/
+
+
+Audio:
+    WAV - Waveform audio file format (2gb)
+    RF64
+    
+Video:
+    Codecs (bit-stream)
+	   JPEG2000
+		DV
+		MP-2
+		H264
+    Wrappers
+	  Quicktime (mov)(Apple)
+		Ogg - open source wrapper (wikipedia)(open standard)
+
+    
+    For later, download this image (note: this is a very large file! 230mb): 
+	http://link.nypl.org/pcmIJ_6OR3Su2K4afTrypAo
+	
+	
+	Self-guided HTML and CSS exercise: 
+	https://lis654fa16.wordpress.com/2016/09/21/class-5-in-class-exercise/
+	
+	
+	
+Links from the end of class: 
+    http://www.votecastr.us/
+    http://projects.fivethirtyeight.com/2016-election-forecast/
+    http://www.mhpbooks.com/its-a-bird-its-a-planeits-a-drone-in-the-new-york-public-library/
+    http://unminify.com/
+    
