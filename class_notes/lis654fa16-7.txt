@@ -1,0 +1,169 @@
+This etherpad: 
+    https://public.etherpad-mozilla.org/p/lis654fa16-7
+    
+AGENDA:
+    Housekeeping
+    News of the Week
+    FTP Upload -- AKA how you will turn in your assignment
+    User Experience and Usability
+    User research to inform design
+    Responsive/adaptable design
+    BREAK!
+    Universal Design/Accessibility, etc.
+    
+    
+Skeumorphism
+
+http://www.wonder-tonic.com/geocitiesizer/
+
+https://twitter.com/i/moments/782600001541251073
+http://nymag.com/thecut/2016/07/justin-trudeau-joyous-canadian-attends-pride.html
+
+
+
+News of the Week
+
+PGP Keys and encryption
+
+
+
+http://creativity-online.com/work/softbank-analog-innovation/47582
+
+
+FTP -- File Transfer Protocol
+
+
+Four pieces of information:
+    Host: mysite.pratt.edu
+    Username: jhadro 
+    Password: cl3verp@ssw0rd
+    Port: 22
+
+Need:
+    public_html folder
+    
+    
+Your site:
+    mysite.pratt.edu/~onekeyusername
+    e.g.
+    mysite.pratt.edu/~jhadro
+    
+    
+    
+What are we talking about?
+Usability and User Experience
+Universal and adaptable design
+Web accessibility
+
+
+
+Google Define trick (define: ) says:
+    "the overall experience of a person using a product such as a website or computer application, especially in terms of how easy or pleasing it is to use."
+    
+    
+    Intuitive
+    Streamlined
+    Familiar
+    Consistent
+    Accessible
+    Responsive
+    User-centered
+    
+    
+Empathy
+Empathy professions: Social work, nursing, teaching, librarianship
+
+Five laws of library science:
+    1 Books are for use
+    2 Every reader his [or her] book
+    3 Every book its readers
+    4 Save the time of the reader
+    5 The library is a growing organism
+
+
+You are not the user.
+
+De Facto design, design momentum:
+    Stapler in drawer vs on the desk where people could use it.
+    Tall tables or bar seats without hooks
+    Push or pull doors missing indicators
+    QWERTY keyboard
+
+
+
+Usability testing
+User testing <-- don't use
+
+
+User Research:
+    http://lj.libraryjournal.com/2012/03/academic-libraries/users-dont-know-what-libraries-are-talking-about-studies-find/#_
+    
+    
+    
+    Surveys
+		 + Broad reach, lots of response
+		 - Can be junk data
+    Focus Groups
+			+ Depth! passion! Human connection 
+			- Time consuming, costly, Group think, conflicting data/opinions
+    Interviews
+	     + Controlled setting, in-depth
+			- Super inefficient 
+    Web Analytics
+	     + Raw data, lots of data, easy, cheap
+			- Not as good as you think they are, care required, measure only what you put there
+    Field studies
+	    + Observation, requires training, 
+       - time consuming
+
+    
+
+
+User Personas
+	Design archetypes
+	https://www.hathitrust.org/documents/HathiTrust_Personas.pdf
+Use cases
+	https://web.archive.org/web/20130224024826/http://dp.la/use-cases/#
+
+
+Mobile-first design
+
+Responsive Design
+
+Accessibility
+
+ADA -- Americans with Disabilities Act 1990
+Applied to new creation
+
+Updated 1998
+Section 508
+
+"agencies must give disabled employees and members of the public access to information that is comparable to the access available to others."
+
+Providing text alternatives
+Providing text alternatives for time-based media
+Navigable or screen readers and browser alternatives
+Distinguishable
+
+
+WAVE Accessibility validator
+http://wave.webaim.org/
+
+http://wave.webaim.org/
+
+---
+
+Links from class: 
+    https://web.archive.org/web/20010911205659/http://nytimes.com/
+    https://twitter.com/nypl_labs/status/781243354818420736
+    https://en.wikipedia.org/wiki/Five_laws_of_library_science
+    www.oldnyc.org/
+    http://library.princeton.edu/
+   http://oralhistory.nypl.org/improve
+    http://transcribe.oralhistory.nypl.org/
+
+
+
+      
+    
+
