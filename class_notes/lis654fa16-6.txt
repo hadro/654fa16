@@ -1,0 +1,114 @@
+This etherpad: 
+    https://public.etherpad-mozilla.org/p/lis654fa16-6
+    
+AGENDA:
+    Housekeeping
+    News of the Week
+    XML:
+	    What is XML?
+		How's it used? Why's it used? Etc.
+		XML examples in the wild
+		BREAK!
+		Let's talk about Mozilla Thimble (https://thimble.mozilla.org/en-US)
+		HTML/CSS Lab
+
+News of the Week:
+    https://nmaahc.si.edu/
+    http://www.spacex.com/mars
+    https://www.watchthedebates.org/#
+    
+    
+    Project Majel
+    
+    
+    XML -- Extensible Markup Language
+    
+    Eric Lease Morgan -- Notre Dame
+    
+    "An open standard providing the means to share data and information between computers and computer programs as unambiguously as possible."
+    
+    
+    .xls
+    .xslx
+    .doc
+    .docx
+    
+    
+    
+XML should look familiar, no?
+ 
+    Three things:
+    XML
+    HTML
+    XHTML
+    
+    (X)HTML is a stricter version of XML
+    
+    
+    Between XML and HTML
+    
+    The same:
+        Paired element tags
+        Doctype and dtd
+        Same orthography
+        Elements and attributes
+        Always a root element
+        Nested elements
+        Attributes must be quoted
+        
+    Different:
+	    Roll your own elements
+		Roll your own attributes
+		Function less deterministic
+		White space is not truncated
+		Element names are case sensitive    
+    
+< > ' " &
+
+    
+DTD -- Document Type Definition
+xmlns -- Namespace (XML namespace)
+    
+    
+    "date"
+    
+    <dc:date> </dc:date>
+    <getty:author>Author name here</getty:author>
+    
+    
+    DTD example: 
+        https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+    
+    
+    XML is extremely verbose
+    vs.
+    JSON -- Javascript Object Notation
+    
+    
+    
+http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms009304&_faSection=overview&_faSubsection=did&_dmdid=
+
+In xml: 
+    http://rs5.loc.gov/findingaids/master/mss/eadxmlmss/2009/ms009304.xml
+    
+EAD -- Encoded Archival Description
+
+Ebook example
+.epub
+
+
+Thimble tool: 
+    https://thimble.mozilla.org/en-US
+
+
+Links from class: 
+    http://digitalcollections.nypl.org/items/bc59e2c0-f660-0131-5617-58d385a7bbd0#/?uuid=bced3ee0-f660-0131-5bf0-58d385a7bbd0
+    https://nmaahc.si.edu/
+    https://transcription.si.edu/transcribe/8529/NMAAHC-2011_45_59_007#
+    http://scribeproject.github.io/
+    http://buildinginspector.nypl.org/
+    https://www.ffmpeg.org/
+    https://en.wikipedia.org/wiki/Stuxnet
+    https://www.watchthedebates.org/#
+    http://nerdist.com/the-late-majel-barrett-may-voice-star-trek-discoverys-computer/
+    http://dublincore.org/documents/dces/
