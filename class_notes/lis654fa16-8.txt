@@ -1,0 +1,180 @@
+This etherpad: 
+    https://public.etherpad-mozilla.org/p/lis654fa16-8
+    
+AGENDA:
+    Questions?
+    Housekeeping
+	    Next assignment
+    News of the Week
+    Universal/accessible design last thoughts?
+    Readings/Viewings(?)
+    APIs
+    Field exploration
+    BREAK!
+    Linked Data, open data, etc.
+
+Copyright for insomnia: 
+    http://www.ca2.uscourts.gov/decisions/isysquery/b2c46c5d-eb94-4726-ad88-a60d5dca951f/1/doc/16-134_opn.pdf#xml=http://www.ca2.uscourts.gov/decisions/isysquery/b2c46c5d-eb94-4726-ad88-a60d5dca951f/1/hilite/
+    
+    http://lj.libraryjournal.com/2012/05/industry-news/blind-patrons-sue-philly-library-for-loaning-inaccessible-nooks/#_
+    
+    
+BBC Ontologies
+Nature
+    
+    
+
+Tiers of Data:
+    Static data -- HTML, XML, "flat files," CSV (comma separated values)
+    Flowing data -- APIs, consume/publish, read/write, endpoint 
+    Meaningful data -- Linked Data, Semantic Web, machine/human readable
+    
+
+
+Examples  open APIs:
+    Klout
+    last.fm
+    Twitter
+    Tumblr
+    Pinterest
+    NYPL
+    DPLA
+    Govtrack
+    
+    
+Read-only (most)
+OR
+Post
+
+
+Authentication
+
+https://www.govtrack.us/api/v2/role
+
+You may need:
+https://addons.mozilla.org/en-us/firefox/addon/jsonview/
+
+Adding parameters:
+    ?property=value&property=value&property=value
+
+
+https://www.govtrack.us/api/v2/role?state=ny&current=true&role_type=senator
+
+    
+    Mashups
+    
+    
+    
+GLAM -- Galleries, libraries, archives and museums
+    
+What do we have to offer?
+What could/should be made available through GLAM APIs?
+Collections:
+    Items within collections
+	    Item data
+    Collection hierarchies
+    User engagement aspects:
+        Usage stats
+        Visitor numbers
+        Branch visits
+    Location data
+		 Address
+		 Hours
+		 Programs
+		 Facilities data
+	 Books
+		AVAILABILITY
+	
+       
+        
+Google + branches
+                                                                               + books    
+    
+    
+LINKED DATA
+
+"We haven't got data on the web as data."
+
+Worst offender:
+    PDF
+
+
+
+Properties and values (static data)
+--->
+Triples:
+    Subject, object, predicate
+    
+
+Josh, NYPL, employed by
+Josh, Andrew, is sibling of [two-way predicate, reciprocal]
+Josh, Marcia, is son of [implied "is parent of"]
+
+
+
+Links from the end of class: 
+    https://ukiyo-e.org/
+    http://xmlns.com/foaf/spec/#term_knows
+    https://linkedjazz.org/
+    https://linkedjazz.org/network/
+    http://www.bing.com/search?q=goldfinch+donna+tartt&filters=ufn%3a%22goldfinch+donna+tartt%
+    https://www.govtrack.us/api/v2/role?state=ny&current=true&role_type=senator
+    http://tweetwall.nypl.org/#/images
+    https://github.com/MuseumofModernArt/exhibitions/blob/master/MoMADirectorsDepartmentHeads.csv
+    https://raw.githubusercontent.com/MuseumofModernArt/exhibitions/master/MoMADirectorsDepartmentHeads.csv
+    https://politicaladarchive.org/
+    https://gds.blog.gov.uk/
+    https://18f.gsa.gov/
+    https://www.flickr.com/search/?text=gaudi%20scaffolding
+    https://twitter.com/webustedghosts
+    https://twitter.com/pokemon_nypl
+    https://linkedjazz.org/wp-content/uploads/2012/04/linked_jazz_transcript_analysis_4-11-2012_N-Quads.txt
+    https://linkedjazz.org/wp-content/uploads/2012/04/linked_jazz_transript_analysis_4-1-2012.nt_.txt
+    
+    
+
+---
+
+
+JSON formatter: 
+    https://jsonformatter.curiousconcept.com/
+
+JSON viewer for firefox: 
+    https://addons.mozilla.org/en-us/firefox/addon/jsonview/
+
+
+
+
+
+
+    API keys: 
+        
+DPLA API Key:
+api_key=[deleted, ask for access]
+
+NYPL API login: 
+    username: 654fa14
+    password: 654fa14
+    
+Brooklyn museum API:
+api_key=[deleted, ask for access]
+
+    
+    
+    https://www.govtrack.us/developers/api
+https://www.brooklynmuseum.org/opencollection/api
+http://api.repo.nypl.org/
+https://dp.la/info/developers/codex/responses/object-structure/
+
+More general resources:
+http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs
+
+- Pick an API to explore
+- Come 2-3 questions you could ask of the API, and get back answers
+- Give it a shot, if you have time!
+    
+
+
+
+
+    
